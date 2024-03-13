@@ -73,3 +73,21 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like 
 Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2_2) AppleWebKit/597.37 (KHTML, like Gecko) Chrome/78.0.46 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 9_2) AppleWebKit/558.45 (KHTML, like Gecko) Chrome/78.0.651 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 9_2) AppleWebKit/555.47 (KHTML, like Gecko) Chrome/78.0.2118 Safari/537.36
+Nokia220/14.00.11 (Series30Plus)
+Nokia113/2.0 (03.47) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5228/UCWEB8.6.0.180/50/352
+Nokia112/2.0 (03.48) Profile/MIDP-2.1 Configuration/CLDC-1.1  UNTRUSTED/1.0
+NokiaC2-05/2.0 (08.79) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia503/2.0 (14.0.6) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+Nokia113/2.0 (03.24) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6303classic/2.0 (10.12) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+NOKIA5700/ UCWEB7.0.2.37/28/999
+NokiaC2-05/2.0 (08.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia203/2.0 (20.26) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia113/2.0 (03.32) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia501s/2.0 (10.0.12) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia503s/2.0 (12.0.23) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6288/2.0 (06.10) Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
+Nokia6303classic/2.0 (06.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Nokia6681/2.0 (4.00.15) SymbianOS/8.0 Series60/2.6 Profile/MIDP-2.0 Configuration/CLDC-1.19.80400
+Nokia301/2.0 (02.33) Profile/MIDP-2.1 Configuration/CLDC-1.1  UNTRUSTED/1.0
