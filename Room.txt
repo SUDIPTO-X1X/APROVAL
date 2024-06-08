@@ -1,2 +1,3 @@
+[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";FBAN/FBIOS;FBAV/163.0.0.54.96;FBBV/34183777;FBDV/iPhone6,2;FBMD/iPhone;FBSN/iOS;FBSV/7;FBSS/2;FBCR/inwi;FBID/phone;FBLC/fr_FR;FBOP/45;FBRV/34683906]
+0.2
 [FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";[FBAN/FB4A;FBAV/417.0.0.33.65;FBPN/com.facebook.katana;FBLC/in_ID;FBBV/480086274;FBCR/Corporation Tbk;FBMF/realme;FBBD/realme;FBDV/RMX3740;FBSV/7.1.2;FBCA/x86:armeabi-v7a;FBDM/{density=1.0,width=540,height=960};FB_FW/1;FBRV/483172840;]"
-0.1
